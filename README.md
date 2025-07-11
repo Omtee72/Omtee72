@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @Omtee72
 - 👀 I’m interested in anything technology 
-- 🌱 I’m currently learning Flutter and Php
+- 🌱 I’m currently learning Ethical Hacking 
 - 💞️ I’m looking to collaborate on any
 - project i can learn something from
-- or help on
 - 📫 How to reach me ... @Omtee on telegram
 
 
